@@ -10,7 +10,7 @@ core:
     # These strings are used in the Appearance page.
     appearance:
       colored_header_label: Colored Header
-      colors_heading: Colors
+      colors_heading: Culori
       colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
       custom_styles_heading: Custom Styles
       custom_styles_text: Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's default styles.
